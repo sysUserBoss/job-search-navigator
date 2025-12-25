@@ -38,7 +38,10 @@ This project reflects experience in:
 - Business logic translation
 - Documentation and delivery
 
-- ## Screenshots
+## ERD
+![Workbook overview](screenshots/Job Search Navigator.jpg)
+
+## Screenshots
 
 ### Workbook overview
 ![Workbook overview](screenshots/1TitlePage.png)
