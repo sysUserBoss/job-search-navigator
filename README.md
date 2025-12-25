@@ -49,8 +49,23 @@ This project reflects experience in:
 ### Contacts table
 ![Contacts table](screenshots/3Contacts.png)
 
+### Company Contacts table
+![Contacts table](screenshots/4CompCont.png)
+
 ### Jobs table
 ![Jobs table](screenshots/5Jobs.png)
 
+### Company Jobs table
+![Jobs table](screenshots/6CompJob.png)
+
 ### Contact log and follow-up tracking
 ![Contact log](screenshots/7ContLog.png)
+
+### Companies Codes Tables
+![Jobs table](screenshots/8CdTblComp.png)
+
+### Contacts and Log Codes Tables
+![Jobs table](screenshots/9CdTblContLog.png)
+
+### Jobs Codes Tables
+![Jobs table](screenshots/10CdTblJob.png)
