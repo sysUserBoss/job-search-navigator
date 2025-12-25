@@ -37,3 +37,20 @@ This project reflects experience in:
 - Analytics system architecture
 - Business logic translation
 - Documentation and delivery
+
+- ## Screenshots
+
+### Workbook overview
+![Workbook overview](screenshots/1TitlePage.png)
+
+### Companies table
+![Companies table](screenshots/2Companies.png)
+
+### Contacts table
+![Contacts table](screenshots/3Contacts.png)
+
+### Jobs table
+![Jobs table](screenshots/5Jobs.png)
+
+### Contact log and follow-up tracking
+![Contact log](screenshots/7ContLog.png)
