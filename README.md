@@ -39,7 +39,7 @@ This project reflects experience in:
 - Documentation and delivery
 
 ## ERD
-![Workbook overview](screenshots/Job Search Navigator.jpg)
+![Workbook overview](screenshots/JSN_ERD.jpg)
 
 ## Screenshots
 
